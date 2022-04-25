@@ -20,7 +20,8 @@
     "name": "Luis a Strapi Developer"
   },
   "strapi": {
-    "uuid": "064d68a9-3d99-4e9c-b61d-dc1d86484d32"
+    "uuid": "064d68a9-3d99-4e9c-b61d-dc1d86484d32",
+    "telemetryDisabled": true
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
