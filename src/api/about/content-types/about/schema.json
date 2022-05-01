@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "cta": {
+    "title": {
       "type": "string"
     },
     "description": {
