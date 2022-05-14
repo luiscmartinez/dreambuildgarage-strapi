@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_abouts",
+  "info": {
+    "displayName": "about",
+    "icon": "person-booth"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_heroes",
+  "info": {
+    "displayName": "hero",
+    "icon": "landmark",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
